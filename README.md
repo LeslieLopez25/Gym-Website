@@ -6,7 +6,7 @@
 
 ### Link
 
-- Live Site: [Fitness For All Website](https://leslielopez25.github.io/Gym-Website/)
+- Live Site: [Fitness For All Website](https://fitness-for-all.netlify.app/)
 
 ### Screenshot
 
